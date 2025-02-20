@@ -7,3 +7,5 @@ Repositorio de autenticações para o treinamento em Git e Git Hub da DIO
 
 3. Teste de alterações para o commit;
 
+4. Testando alterações em uma segunda Branch;
+
