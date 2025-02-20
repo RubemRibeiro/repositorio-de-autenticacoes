@@ -1,6 +1,9 @@
-# repositorio-de-autenticacoes
+# Repositorio-de-autenticacoes
 Repositorio de autenticações para o treinamento em Git e Git Hub da DIO
 
-1 - Autenticação com token de acesso pessoal;
+1. Autenticação com token de acesso pessoal;
 
-2 - Testando o método;
+2. Testando o método;
+
+3. Teste de alterações para o commit;
+
